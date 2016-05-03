@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//conf/provider.ini=UTF-8
+encoding//task/client_action.py=utf-8
+encoding//task/debug.py=utf-8
+encoding//task/mgr_login.py=utf-8
+encoding//task/register.py=utf-8
+encoding//tcase/test_client_buy.py=utf-8
+encoding/test_func.py=utf-8
